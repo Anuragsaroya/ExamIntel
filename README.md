@@ -64,4 +64,4 @@ Built to simplify the journey of millions of engineering aspirants in India who 
 
 If you find this useful, consider giving it a ⭐ on GitHub!
 
-Live website link - https://exam-intel-psi.vercel.app/
+Live website link - https://examintel.vercel.app/
